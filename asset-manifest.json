@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/passage22-website/static/css/main.ed1af99b.css",
-    "main.js": "/passage22-website/static/js/main.1f9fa115.js",
-    "static/js/787.707bc0a4.chunk.js": "/passage22-website/static/js/787.707bc0a4.chunk.js",
-    "static/media/texture.jpg": "/passage22-website/static/media/texture.01fab55d3fcc69329371.jpg",
-    "index.html": "/passage22-website/index.html",
-    "static/media/logo.svg": "/passage22-website/static/media/logo.270577f5b58196547497858c267782c6.svg",
-    "main.ed1af99b.css.map": "/passage22-website/static/css/main.ed1af99b.css.map",
-    "main.1f9fa115.js.map": "/passage22-website/static/js/main.1f9fa115.js.map",
-    "787.707bc0a4.chunk.js.map": "/passage22-website/static/js/787.707bc0a4.chunk.js.map"
+    "main.css": "/passage22.com/static/css/main.9b8db14b.css",
+    "main.js": "/passage22.com/static/js/main.6cc28017.js",
+    "static/js/787.707bc0a4.chunk.js": "/passage22.com/static/js/787.707bc0a4.chunk.js",
+    "static/media/texture.jpg": "/passage22.com/static/media/texture.01fab55d3fcc69329371.jpg",
+    "index.html": "/passage22.com/index.html",
+    "static/media/logo.svg": "/passage22.com/static/media/logo.270577f5b58196547497858c267782c6.svg",
+    "main.9b8db14b.css.map": "/passage22.com/static/css/main.9b8db14b.css.map",
+    "main.6cc28017.js.map": "/passage22.com/static/js/main.6cc28017.js.map",
+    "787.707bc0a4.chunk.js.map": "/passage22.com/static/js/787.707bc0a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed1af99b.css",
-    "static/js/main.1f9fa115.js"
+    "static/css/main.9b8db14b.css",
+    "static/js/main.6cc28017.js"
   ]
 }
